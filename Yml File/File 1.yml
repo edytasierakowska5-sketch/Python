@@ -1,1 +1,12 @@
+Data:
+Enabled: true
+src: "File 1.yml"
 
+Github:
+Enabled: true
+src: "File 1.yml"
+git: "git3?s=repository.git-github:24git"
+url: "https://github.com"
+python: "git24?s=repo.git-github"
+pythonUrl: "https://github.com"
+data: 148886400054330128
